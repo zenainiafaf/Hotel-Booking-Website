@@ -136,7 +136,7 @@ Main entities include:
 ## Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/Hotel-Booking-Website.git
+git clone https://github.com/zenainiafaf/Hotel-Booking-Website.git
 ```
 
 ---

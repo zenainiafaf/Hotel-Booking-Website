@@ -216,7 +216,7 @@ http://localhost/Hotel-Booking-Website/
 ## Home Page
 
 <p align="center">
-<img src="screenshots/home.png" width="900">
+<img src="screenshots/home_page.png" width="900">
 </p>
 
 ---
@@ -224,7 +224,7 @@ http://localhost/Hotel-Booking-Website/
 ## Hotel Search
 
 <p align="center">
-<img src="screenshots/search.png" width="900">
+<img src="screenshots/Hotel_search.png" width="900">
 </p>
 
 ---
@@ -232,7 +232,7 @@ http://localhost/Hotel-Booking-Website/
 ## Hotel Details
 
 <p align="center">
-<img src="screenshots/details.png" width="900">
+<img src="screenshots/hotel_detail.png" width="900">
 </p>
 
 ---
@@ -248,7 +248,7 @@ http://localhost/Hotel-Booking-Website/
 ## Administrator Dashboard
 
 <p align="center">
-<img src="screenshots/admin.png" width="900">
+<img src="screenshots/admin_dashbord.png" width="900">
 </p>
 
 ---
@@ -256,7 +256,7 @@ http://localhost/Hotel-Booking-Website/
 ## Hotel Manager Dashboard
 
 <p align="center">
-<img src="screenshots/manager.png" width="900">
+<img src="screenshots/hotel_manager_dash.png" width="900">
 </p>
 
 ---
@@ -281,23 +281,12 @@ The system was designed using UML and includes:
 - Fast search
 - User-friendly interface
 
----
-
-# 🚀 Future Improvements
-
-- Online payment gateway
-- Social login
-- Email notifications
-- Mobile application
-- Recommendation system
-- AI-powered hotel recommendations
-- Arabic language support
 
 ---
 
 # 👨‍💻 Authors
 
-**Farah Zenaini**
+**AFAF Farah Zenaini**
 
 Bachelor's Final Year Project
 
@@ -305,14 +294,3 @@ University of Science and Technology Houari Boumediene (USTHB)
 
 2024
 
----
-
-# ⭐ Support
-
-If you like this project, consider giving it a ⭐ on GitHub.
-
----
-
-# 📄 License
-
-This project was developed for educational purposes.

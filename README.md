@@ -129,35 +129,7 @@ Main entities include:
 
 ---
 
-# 📂 Project Structure
 
-```text
-Hotel-Booking-Website/
-│
-├── admin/
-├── client/
-├── property/
-├── css/
-├── js/
-├── video/
-├── images/
-│
-├── index.php
-├── login.php
-├── register.php
-├── search.php
-├── reservation.php
-├── contact.php
-├── comment.php
-│
-├── db.php
-├── db.sql
-├── contraystate.sql
-│
-└── README.md
-```
-
----
 
 # 🚀 Installation
 
